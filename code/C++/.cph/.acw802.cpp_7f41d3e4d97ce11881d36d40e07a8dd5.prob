@@ -1,0 +1,1 @@
+{"name":"Local: acw802","url":"d:\\C++\\Learn\\code\\C++\\acw802.cpp","tests":[{"id":1746949354743,"input":"3 3\n1 2\n3 6\n7 5\n1 3\n4 6\n7 8","output":"8\n0\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Learn\\code\\C++\\acw802.cpp","group":"local","local":true}
