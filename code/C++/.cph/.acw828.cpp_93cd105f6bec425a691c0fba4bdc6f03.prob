@@ -1,0 +1,1 @@
+{"name":"Local: acw828","url":"d:\\C++\\Learn\\code\\C++\\acw828.cpp","tests":[{"id":1746980831036,"input":"10\npush 5\nquery\npush 6\npop\nquery\npop\nempty\npush 4\nquery\nempty","output":"5\n5\nYES\n4\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Learn\\code\\C++\\acw828.cpp","group":"local","local":true}
