@@ -1,1 +1,0 @@
-{"name":"Local: acw837","url":"/home/hakkai/mylearn/Learn/code/C++/acw837.cpp","tests":[{"id":1747273539701,"input":"5 5\nC 1 2\nQ1 1 2\nQ2 1\nC 2 5\nQ2 5","output":"Yes\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hakkai/mylearn/Learn/code/C++/acw837.cpp","group":"local","local":true}

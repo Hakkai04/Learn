@@ -1,1 +1,0 @@
-{"name":"Local: acw2816","url":"d:\\C++\\Learn\\code\\C++\\acw2816.cpp","tests":[{"id":1746947802982,"input":"3 5\n1 3 5\n1 2 3 4 5","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Learn\\code\\C++\\acw2816.cpp","group":"local","local":true}

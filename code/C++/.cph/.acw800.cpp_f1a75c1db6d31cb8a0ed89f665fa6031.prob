@@ -1,1 +1,0 @@
-{"name":"Local: acw800","url":"d:\\C++\\Learn\\code\\C++\\acw800.cpp","tests":[{"id":1746947176027,"input":"4 5 6\n1 2 4 7\n3 4 6 8 9","output":"1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Learn\\code\\C++\\acw800.cpp","group":"local","local":true}

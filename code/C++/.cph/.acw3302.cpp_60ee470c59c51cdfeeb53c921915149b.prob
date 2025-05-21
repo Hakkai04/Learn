@@ -1,1 +1,0 @@
-{"name":"Local: acw3302","url":"d:\\C++\\Learn\\code\\C++\\acw3302.cpp","tests":[{"id":1747024043333,"input":"(2+2)*(1+1)","output":"8"},{"id":1747024929467,"input":"2*10-1000+24-(5*3)+(3*2)","output":"-965"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Learn\\code\\C++\\acw3302.cpp","group":"local","local":true}
